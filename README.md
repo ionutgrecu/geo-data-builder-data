@@ -1,4 +1,4 @@
-# geographer-data
+# geo-data-builder-data
 Basic data package for Geographer - countries and their subdivisions
 
 ## Overview
