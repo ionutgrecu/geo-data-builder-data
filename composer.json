@@ -1,9 +1,9 @@
 {
-    "name": "menarasolutions/geographer-data",
+    "name": "ionutgrecu/geo-data-builder-data",
     "type": "library",
-    "description": "Basic data package for Geographer - countries and their subdivisions",
+    "description": "Basic data package for geo-data-builder - countries and their subdivisions",
     "keywords": ["geographer","geolocation","localization"],
-    "homepage": "https://github.com/MenaraSolutions/geographer-data",
+    "homepage": "",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MenaraSolutions\\Geographer\\Helpers\\": "helpers/"
+            
         }
     }
 }
