@@ -58,7 +58,8 @@
         "parent": "KR",
         "ids": {
             "fips": "KS14",
-            "geonames": 1841597
+            "geonames": 1841597,
+            "iso_3166_2": "KR-47"
         },
         "long": {
             "default": "Gyeongsangbuk-do"
