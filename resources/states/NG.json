@@ -25,7 +25,8 @@
         "parent": "NG",
         "ids": {
             "fips": "NI49",
-            "geonames": 2324828
+            "geonames": 2324828,
+            "iso_3166_2": "NG-PL"
         },
         "long": {
             "default": "Plateau"
