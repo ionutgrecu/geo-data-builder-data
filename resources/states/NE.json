@@ -69,7 +69,8 @@
         "parent": "NE",
         "ids": {
             "fips": "NG09",
-            "geonames": 2595293
+            "geonames": 2595293,
+            "iso_3166_2": "NE-6"
         },
         "long": {
             "default": "Tillabéri"
