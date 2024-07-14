@@ -36,7 +36,8 @@
         "parent": "CU",
         "ids": {
             "fips": "CU01",
-            "geonames": 3544088
+            "geonames": 3544088,
+            "iso_3166_2": "CU-01"
         },
         "long": {
             "default": "Pinar del Río"
