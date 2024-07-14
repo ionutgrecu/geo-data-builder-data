@@ -25,7 +25,8 @@
         "parent": "ML",
         "ids": {
             "fips": "ML05",
-            "geonames": 2451477
+            "geonames": 2451477,
+            "iso_3166_2": "ML-4"
         },
         "long": {
             "default": "Ségou"
